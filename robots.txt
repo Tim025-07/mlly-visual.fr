@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /merci.php
+Disallow: /telecharger.php
+Disallow: /desinscription.php
+Disallow: /admin-boutique.php
+Sitemap: https://mlly-visual.fr/sitemap.xml

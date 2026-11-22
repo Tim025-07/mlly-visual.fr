@@ -1,0 +1,7 @@
+_prive/
+_patchs/
+*.php
+.htaccess
+.user.ini
+A-RENOMMER-*
+.DS_Store
